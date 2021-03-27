@@ -1,3 +1,3 @@
 {
-  "آدرس سایت": "http://rivasite.gigfa.com"
+  "آدرس سایت": "http://codeplus.ss0.ir"
 }
